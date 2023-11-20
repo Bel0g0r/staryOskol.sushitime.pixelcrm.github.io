@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/staryOskol.sushitime.pixelcrm.github.io/static/css/main.6b5ff3e8.css",
-    "main.js": "/staryOskol.sushitime.pixelcrm.github.io/static/js/main.3114cdb4.js",
+    "main.js": "/staryOskol.sushitime.pixelcrm.github.io/static/js/main.86d76ddf.js",
     "static/js/356.47e809df.js": "/staryOskol.sushitime.pixelcrm.github.io/static/js/356.47e809df.js",
     "static/media/MaterialCommunityIcons.ttf": "/staryOskol.sushitime.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/staryOskol.sushitime.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/staryOskol.sushitime.pixelcrm.github.io/favicon-16.png",
     "serve.json": "/staryOskol.sushitime.pixelcrm.github.io/serve.json",
     "main.6b5ff3e8.css.map": "/staryOskol.sushitime.pixelcrm.github.io/static/css/main.6b5ff3e8.css.map",
-    "main.3114cdb4.js.map": "/staryOskol.sushitime.pixelcrm.github.io/static/js/main.3114cdb4.js.map",
+    "main.86d76ddf.js.map": "/staryOskol.sushitime.pixelcrm.github.io/static/js/main.86d76ddf.js.map",
     "356.47e809df.js.map": "/staryOskol.sushitime.pixelcrm.github.io/static/js/356.47e809df.js.map"
   },
   "entrypoints": [
     "static/js/356.47e809df.js",
     "static/css/main.6b5ff3e8.css",
-    "static/js/main.3114cdb4.js"
+    "static/js/main.86d76ddf.js"
   ]
 }
