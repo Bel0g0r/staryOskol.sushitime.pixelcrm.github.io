@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Starfish",
-  "short_name": "Starfish",
+  "name": "Sushi Time",
+  "short_name": "Sushi Time",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
