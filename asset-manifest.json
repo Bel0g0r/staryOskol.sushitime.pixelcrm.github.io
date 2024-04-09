@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/staryOskol.sushitime.pixelcrm.github.io/static/css/main.6b5ff3e8.css",
-    "main.js": "/staryOskol.sushitime.pixelcrm.github.io/static/js/main.7993ee81.js",
-    "static/js/356.835756d4.js": "/staryOskol.sushitime.pixelcrm.github.io/static/js/356.835756d4.js",
+    "main.css": "/staryOskol.sushitime.pixelcrm.github.io/static/css/main.1d9a774e.css",
+    "main.js": "/staryOskol.sushitime.pixelcrm.github.io/static/js/main.96a07dbd.js",
+    "static/js/356.3312f748.js": "/staryOskol.sushitime.pixelcrm.github.io/static/js/356.3312f748.js",
     "static/media/MaterialCommunityIcons.ttf": "/staryOskol.sushitime.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/staryOskol.sushitime.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/staryOskol.sushitime.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -29,13 +29,13 @@
     "manifest.json": "/staryOskol.sushitime.pixelcrm.github.io/manifest.json",
     "favicon-16.png": "/staryOskol.sushitime.pixelcrm.github.io/favicon-16.png",
     "serve.json": "/staryOskol.sushitime.pixelcrm.github.io/serve.json",
-    "main.6b5ff3e8.css.map": "/staryOskol.sushitime.pixelcrm.github.io/static/css/main.6b5ff3e8.css.map",
-    "main.7993ee81.js.map": "/staryOskol.sushitime.pixelcrm.github.io/static/js/main.7993ee81.js.map",
-    "356.835756d4.js.map": "/staryOskol.sushitime.pixelcrm.github.io/static/js/356.835756d4.js.map"
+    "main.1d9a774e.css.map": "/staryOskol.sushitime.pixelcrm.github.io/static/css/main.1d9a774e.css.map",
+    "main.96a07dbd.js.map": "/staryOskol.sushitime.pixelcrm.github.io/static/js/main.96a07dbd.js.map",
+    "356.3312f748.js.map": "/staryOskol.sushitime.pixelcrm.github.io/static/js/356.3312f748.js.map"
   },
   "entrypoints": [
-    "static/js/356.835756d4.js",
-    "static/css/main.6b5ff3e8.css",
-    "static/js/main.7993ee81.js"
+    "static/js/356.3312f748.js",
+    "static/css/main.1d9a774e.css",
+    "static/js/main.96a07dbd.js"
   ]
 }
